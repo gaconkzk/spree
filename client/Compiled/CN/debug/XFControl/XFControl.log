@@ -1,0 +1,312 @@
+﻿  StdAfx.cpp
+  util.cpp
+  sound.cpp
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\util.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  palette.cpp
+d:\repositories\spree\client\xfcontrol\win32\palette.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\win32\fscontrol.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  FSControl.cpp
+d:\repositories\spree\client\xfcontrol\win32\fscontrol.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Display.cpp
+d:\repositories\spree\client\xfcontrol\win32\display.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\win32\fscontrol.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  debug.cpp
+d:\repositories\spree\client\xfcontrol\win32\debug.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  unixfonts.cpp
+  sstroker.cpp
+d:\repositories\spree\client\xfcontrol\sstroker.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sstroker.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  splayer.cpp
+d:\repositories\spree\client\xfcontrol\splayer.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\edittext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\util.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.cpp(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(1442): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(2416): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(2417): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(3883): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(3884): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(4840): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(4847): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(4882): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+d:\repositories\spree\client\xfcontrol\splayer.cpp(4901): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+  splay.cpp
+d:\repositories\spree\client\xfcontrol\splay.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\edittext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\morphinter.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\util.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\jpeg.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  sobject.cpp
+d:\repositories\spree\client\xfcontrol\sobject.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sstroker.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\morphinter.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\edittext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sobject.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\repositories\spree\client\xfcontrol\sobject.cpp(787): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(554): note: see declaration of 'stricmp'
+  sndmix.cpp
+d:\repositories\spree\client\xfcontrol\sndmix.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\util.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  sndcodec.cpp
+d:\repositories\spree\client\xfcontrol\sndcodec.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\mp3decoder.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  sdisplay.cpp
+d:\repositories\spree\client\xfcontrol\sdisplay.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\edittext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  sbitmap.cpp
+d:\repositories\spree\client\xfcontrol\sbitmap.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+  raster.cpp
+d:\repositories\spree\client\xfcontrol\raster.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  mp3decoder.cpp
+d:\repositories\spree\client\xfcontrol\mp3decoder.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\mp3decoder.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  morphinter.cpp
+d:\repositories\spree\client\xfcontrol\morphinter.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\morphinter.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  memcop.cpp
+d:\repositories\spree\client\xfcontrol\memcop.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  jpeg.cpp
+d:\repositories\spree\client\xfcontrol\jpeg.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\jpeg.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  global.cpp
+d:\repositories\spree\client\xfcontrol\global.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  geom.cpp
+d:\repositories\spree\client\xfcontrol\geom.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  FlashControlImpl.cpp
+d:\repositories\spree\client\xfcontrol\flashcontrolimpl.h(2): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  fixed.cpp
+d:\repositories\spree\client\xfcontrol\fixed.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.cpp(259): warning C4838: conversion from 'unsigned long' to 'const S32' requires a narrowing conversion
+  edittext.cpp
+d:\repositories\spree\client\xfcontrol\edittext.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sobject.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\sndmix.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sndcodec.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\stags.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sdisplay.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\splayer.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\edittext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sstroker.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\util.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\fscontrol.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  curve.cpp
+d:\repositories\spree\client\xfcontrol\curve.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  bitbuf.cpp
+d:\repositories\spree\client\xfcontrol\bitbuf.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\sbitmap.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\geom.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\fixed.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\palette.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\win32\display.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C3867: 'NativeBitmap::Bits': non-standard syntax; use '&' to create a pointer to member
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\repositories\spree\client\xfcontrol\bitbuf.h(94): error C2296: '&': illegal, left operand has type 'NativeBitmap *'
+d:\repositories\spree\client\xfcontrol\raster.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\shape.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\curve.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\memcop.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\repositories\spree\client\xfcontrol\bitbuf.cpp(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

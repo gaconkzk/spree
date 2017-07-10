@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{b4b1cc6d-2291-4503-81eb-4362fd5f1a12}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Window">
+      <UniqueIdentifier>{2ae83aa6-defc-4abd-8007-0fc68f8cdd0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog">
+      <UniqueIdentifier>{9da9ebc7-2704-48bb-8bc9-2f9dc6f970b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PackageCore">
+      <UniqueIdentifier>{e8fa2627-0f89-4176-b3a3-f298b64ab7e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Zip">
+      <UniqueIdentifier>{23b11732-cd52-4eae-b1a7-28af11afb147}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\cpt.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Eudora 3 black.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\folderopen.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Simple Remix Hard Drive.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XPacker.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XPacker.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XPackerDlg.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="DirDialog.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="EditSoundListItemDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="ModifySoundSceneItemDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="MywndTab.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="NewPackageFileDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="NewSectionDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="PackingView.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="SetRootPathDlg.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="WavePackageView.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="wndTab.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="xShadeButton.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="XTreeCtrl.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Package.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="PackFileItem.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="SectionList.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="SndStructure.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="SndTableList.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="WavePackage.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="XDSound.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Xitem.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Xlist.h">
+      <Filter>PackageCore</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XPacker.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XPackerDlg.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="DirDialog.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="EditSoundListItemDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="ModifySoundSceneItemDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="MywndTab.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="NewPackageFileDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="NewSectionDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="PackingView.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="SetRootPathDlg.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="WavePackageView.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="wndTab.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="xShadeButton.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="XTreeCtrl.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Package.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="PackFileItem.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="SectionList.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="SndTableList.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="WavePackage.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="XDSound.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Xitem.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Xlist.cpp">
+      <Filter>PackageCore</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="XPacker.rc">
+      <Filter>Window</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\XPacker.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="XPacker.reg" />
+  </ItemGroup>
+</Project>

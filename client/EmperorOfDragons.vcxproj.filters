@@ -1,0 +1,2330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{cbd76d61-fda2-4c07-958a-83baacfd2cab}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Windows">
+      <UniqueIdentifier>{d65e0991-e448-494f-bf01-cdcdd13a28f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\Application Base">
+      <UniqueIdentifier>{329b374f-f3ac-4107-9cbd-a3c40df6da47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\Resource">
+      <UniqueIdentifier>{ca45c84d-91ef-4a76-84f5-19775c079c92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\Global Define">
+      <UniqueIdentifier>{98eadf47-f4a8-4ff8-b523-b563542e40d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Documents">
+      <UniqueIdentifier>{b12de29b-bc25-4397-91f4-ee2ad1747e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler">
+      <UniqueIdentifier>{07f70f95-9b95-430e-8929-c3420e6a82b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\ProcessKernel">
+      <UniqueIdentifier>{5f52e97b-d014-4968-a17c-fe3dfcf1772e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\LoginServer">
+      <UniqueIdentifier>{7d7845e7-45bb-499d-9cc2-1824ddfcdbe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\LoginServer\Title">
+      <UniqueIdentifier>{1c735782-bc44-44a6-9beb-f9fc243ea384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\LoginServer\AcclaimMD5">
+      <UniqueIdentifier>{dddaeb4e-e552-488d-a649-25afb4dd5724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Create&amp;SelectCharacter">
+      <UniqueIdentifier>{140edada-0894-48d6-bb8c-b02bd99d80a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Create&amp;SelectCharacter\SubWindow">
+      <UniqueIdentifier>{475b3706-3958-4811-9a93-aa99aeb3183a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main">
+      <UniqueIdentifier>{a924be3d-8741-4447-a22e-5ab3a1e06cc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window">
+      <UniqueIdentifier>{8e46d93f-5dd7-4b5c-9fa5-c8f4a5dc756b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Messenger window">
+      <UniqueIdentifier>{1e044c58-8292-4224-8041-f3ce2ad7a5e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\MessageBox">
+      <UniqueIdentifier>{542cbf3c-5f46-4611-8523-f22140ce0b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\MessageBox\Training Window">
+      <UniqueIdentifier>{519e3dec-bef1-4a8f-a2f8-aaedf05d6c74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Option Window">
+      <UniqueIdentifier>{7442f4ec-5808-4a6c-ac27-4aea6bea7a89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\HelpSystem">
+      <UniqueIdentifier>{0dacd44c-825a-4dd3-b1c5-78aac0f19b0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\GM_Window">
+      <UniqueIdentifier>{b1a3475b-e9ec-44d1-8ec8-55726c961cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Party Window">
+      <UniqueIdentifier>{d1d99ad0-4d5a-4b21-9e60-d9543cfbde7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Match window">
+      <UniqueIdentifier>{ff9509ac-8c98-418c-86f0-0b4c73368fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Payment">
+      <UniqueIdentifier>{678fb082-24af-40e6-bd96-d7e6b0d8213c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Cash Window">
+      <UniqueIdentifier>{e9c55142-4850-4709-87cf-7d9b715c4889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\Castle window">
+      <UniqueIdentifier>{3839beb5-8bdf-40db-af15-5cd9566d9f14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Game main\Window\MasternDisciple Window">
+      <UniqueIdentifier>{39c87036-c39b-485a-99ad-e6b54c07c826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\FirstLoad">
+      <UniqueIdentifier>{e697247d-341f-4d5d-80f9-620adf6114fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Flash">
+      <UniqueIdentifier>{89d8b87a-f065-43c7-9077-98fa61b2ea52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProcessHandler\Zero Level">
+      <UniqueIdentifier>{b2c467a0-c21d-44a1-8d2f-c06c92f50c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure">
+      <UniqueIdentifier>{62d20d8c-2690-4f8a-979c-3a00540f03c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Character">
+      <UniqueIdentifier>{ec7b0acf-3e6b-4454-af8e-9705abaede9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Item">
+      <UniqueIdentifier>{2f2b9aa9-92d3-4da4-8ded-6881b2359f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Messenger">
+      <UniqueIdentifier>{7db184be-a815-48ba-911c-5d6c6908cea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Object">
+      <UniqueIdentifier>{40e17a1e-b4db-45b1-8b67-7c0ad892c0a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Notice">
+      <UniqueIdentifier>{36726e5f-41ef-40e6-a96a-a47941ebb647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\Castle">
+      <UniqueIdentifier>{3169af8d-6a2d-44ef-924a-e24531d56e9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\XML">
+      <UniqueIdentifier>{0d863aaf-b60b-44e6-9060-27f4c91b49e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\TextureAnimation">
+      <UniqueIdentifier>{f9e1b20d-d307-4bb2-9d6f-b5739b278fce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\TagString">
+      <UniqueIdentifier>{f6547c60-8307-4ce4-af18-74cb06a35115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\MatchEvent">
+      <UniqueIdentifier>{89271da5-7384-41a7-9824-8a990ab48f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructure\SetItem">
+      <UniqueIdentifier>{7bc6d46b-90ee-471d-a388-8a13851618b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XUtility">
+      <UniqueIdentifier>{816354c6-02fb-4fac-9831-2064c4f9e3f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XUtility\Word filtering">
+      <UniqueIdentifier>{33acd236-2779-4119-875a-1b12aebc5b72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XUtility\String Resource control">
+      <UniqueIdentifier>{f5f13396-6191-4b4b-be85-063f24c1fb31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{e48e16bc-3475-4cf6-82a5-be776e43f2f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\NMClass">
+      <UniqueIdentifier>{0eafef10-9b65-4e98-90a8-51caa9878eda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\NMClass\ADBalloon">
+      <UniqueIdentifier>{dfa38288-2991-4f1e-9141-8df733fbe73d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\HTMLRequest">
+      <UniqueIdentifier>{a3f2dd89-f42e-43ed-8913-f5a57eb4ac46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel">
+      <UniqueIdentifier>{23518f52-25de-436c-a99f-20f3eaceed7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\Billboard control">
+      <UniqueIdentifier>{9c1b6341-8490-404e-91be-325ee4a95c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\XBiped controller">
+      <UniqueIdentifier>{bf15b333-d03f-4ef4-9f13-951815eb0ec0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\XBiped controller\AnimModelContainer">
+      <UniqueIdentifier>{61cad48d-2860-4774-b58d-7e6910efda55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\XBiped controller\AnimModelContainer\ShaderCode">
+      <UniqueIdentifier>{c9a31788-4ebd-4fda-94b6-cf13be7cbc7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\Terrain">
+      <UniqueIdentifier>{0a382db0-b266-4ebd-9197-6269f95eb962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\Camera">
+      <UniqueIdentifier>{23dbf661-6f9a-45f9-b831-ebced8b91927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\Render">
+      <UniqueIdentifier>{081ff4d0-78db-486a-b64e-6b1c6e87b2fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3DKernel\XEffect">
+      <UniqueIdentifier>{5b5684a5-1c4f-425c-adef-63c0c0596e98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI Handler">
+      <UniqueIdentifier>{d61b0e73-e655-4712-98ca-4dc3922169ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script">
+      <UniqueIdentifier>{7ade7be5-a61d-4390-a329-f8875c1689df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuestScript">
+      <UniqueIdentifier>{99881ff8-3d26-43f7-91a9-5cc3e495ceb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XAudioKernel">
+      <UniqueIdentifier>{97eb5687-2dbc-4706-af7b-cce28861a772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGUI">
+      <UniqueIdentifier>{d832a537-dfe9-4a57-ab75-0a25ecf79f47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SpeedTreeWrapper">
+      <UniqueIdentifier>{aac159f2-4370-4669-8089-6e29a3630a90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SpeedTreeWrapper\SpeedWind">
+      <UniqueIdentifier>{b5ec4153-a0fa-4fa7-9f0a-f971033f1954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect kernel">
+      <UniqueIdentifier>{169986ee-2acf-421c-92f9-c0f7d3a1889a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect kernel\Particle core">
+      <UniqueIdentifier>{66285a50-a5a3-4e78-9630-cca6ae3535e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect kernel\Spline container">
+      <UniqueIdentifier>{0bdf72b4-585c-4b55-b1aa-608ed8e58ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect kernel\Recycling array">
+      <UniqueIdentifier>{f20b09c6-a968-4831-ac5d-9942262d5d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect kernel\PostScreenEffect">
+      <UniqueIdentifier>{919cdfa4-9acb-40b3-b8c8-a30fce8503c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FunctionalObjectScript">
+      <UniqueIdentifier>{00e5ed00-1229-47ce-9601-0eaa5a338677}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LifeSkillScript">
+      <UniqueIdentifier>{32c2fab2-8f00-4fa5-9e2c-d8b94d1733ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MADWrapper">
+      <UniqueIdentifier>{c0861755-4643-43b5-a899-e909e79c977e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IGAADWrapper">
+      <UniqueIdentifier>{9a8fb275-68d2-445f-a2b6-9d3ec80356bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IGAADWrapper\Bink">
+      <UniqueIdentifier>{f2f184fe-a50a-4493-a1b1-a86ba3c32c18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="EmperorOfDragons.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\GameMain.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\NineDragons.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\pause.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\play.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\stop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Windows\Application Base</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Windows\Application Base</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\EODDEF_GlobalObject.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\EODDEF_ModelData.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\EODEXTDEF_GlobalObject.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\EODEXTDEF_ModelData.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="XSound\SoundEffectList.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XRegistryDef.h">
+      <Filter>Windows\Global Define</Filter>
+    </ClInclude>
+    <ClInclude Include="EmperorOfDragons.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_ProcessDefine.h">
+      <Filter>ProcessHandler\ProcessKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindowObjectDefine.h">
+      <Filter>ProcessHandler\ProcessKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_NineDragonsTitle.h">
+      <Filter>ProcessHandler\LoginServer\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\XMD5.H">
+      <Filter>ProcessHandler\LoginServer\AcclaimMD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\XMD5Global.h">
+      <Filter>ProcessHandler\LoginServer\AcclaimMD5</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_LoginServer.h">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_DrawKeyboard.h">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Login.h">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_SelectServerForest.h">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_TestServerNotice.h">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ChangeName.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CreateCharacter.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ExplainCharacter.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_SelectCharacter.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ServerUnification.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_CreateCharacter.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_SelectCharacter.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_ServerUnification.h">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Email.h">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Messenger.h">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MessengerDialog.h">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MessengerTooltip.h">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NameInput.h">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Training.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_TrainingComplete.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_TrainingDummy.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_TrainingHelp.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_TrainingMed.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\xwindow_trainingspell.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XMessageWindow.h">
+      <Filter>ProcessHandler\Game main\Window\MessageBox</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Option.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_OptionCommunity.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_OptionGame.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_OptionGraphic.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_OptionMenu.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_OptionSound.h">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GuideLine.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Hedek.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Help.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_HelpBook.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_HelpScreen.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Tutorial.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_TutorialIcon.h">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GM_EventManager.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GM_MonsterManage.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GM_SendNoticeMessage.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GM_StatusControl.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GM_UserCoordination.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_GMCommand.h">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PartyMasterMiniBar.h">
+      <Filter>ProcessHandler\Game main\Window\Party Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PartyMemberMiniBar.h">
+      <Filter>ProcessHandler\Game main\Window\Party Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_FreeMatchInfo.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MatchEvent.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MatchMessage.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MatchNoticeLarge.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MatchNoticeSmall.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MatchPR.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MatchRecord.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MatchTablePVP.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_PVPBroker.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_RewardNick.h">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_AccountItemUse.h">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PaymentWindow.h">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PCRPremium.h">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CashBox.h">
+      <Filter>ProcessHandler\Game main\Window\Cash Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CashMall.h">
+      <Filter>ProcessHandler\Game main\Window\Cash Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CastleBattlePersonalHistory.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CastleBattleRewardList.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CastleBattleShout.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CastleBattleTimeChange.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CastleInfo.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CBOrgRecord.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CBRecord.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CBResultNotice.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CBRewardSmall.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ChallengerList.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Info.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Mark.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ThreatenGauge.h">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XMnDStructInfo.h">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MnDCurrentPoint.h">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MnDGroup.h">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MnDTotalPoint.h">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCMnDInfo.h">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_AddSaveItem.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_AdminNotice.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_AgeGrade.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_AreaSelect.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_BlackList.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_BloodPoint.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_BookOpen.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_CashItem.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ChargeGauge.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ChatBalloon.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ChattingDefault.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_CInfo.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Contribution.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_DeathBlow.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Debug.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_DefaultTooltip.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_EnterBossRoom.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Escape.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Event.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_EventIcon.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_EventNotice.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Exp.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Gamble.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Group.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Inchant.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Inventory.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_JinStatus.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_LifeSkill.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MainFrame.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MainMenu.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MasterySkill.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MaximumMap.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_MiniTooltip.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MixWeapon.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MonsterStatus.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_MoveVillage.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_NickName.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_NPCBuff.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCChatBalloon.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCCollection.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCName.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCResource.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCResource_New.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCScript.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCSearch.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCSkill.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_NPCTrade.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Party.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PCTrade.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_PersonalStore.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_PK.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PK_ListBox.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_PKRecord.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_PKTracingRequest.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_Pocket.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Poison.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_QuestMail.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_QuestRank.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_QuestWindow.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_QuickSlot.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Rebirth.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_RecallItem.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_RepairItem.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_RequestParty.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Skill.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_SmeltItem.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_SocketDetach.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_SocketPlugIn.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_SocketPlugInExp.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_State.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XWindow_SystemMsgDefault.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_TargetInfo.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_TargetInfoSelect.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_TradeConfirm.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_Warehouse.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_WebBoard.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_WorldMap.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_WorldMinimap.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XWindow_ZoneName.h">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_Loading.h">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_MainGame.h">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_MainGameDef.h">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClInclude>
+    <ClInclude Include="XProcess\XProc_FirstLoad.h">
+      <Filter>ProcessHandler\FirstLoad</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\FlashControlInterface.h">
+      <Filter>ProcessHandler\Flash</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XProc_Flash.h">
+      <Filter>ProcessHandler\Flash</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XProc_SelectHero.h">
+      <Filter>ProcessHandler\Zero Level</Filter>
+    </ClInclude>
+    <ClInclude Include="xprocess\XProc_ZeroLevel.h">
+      <Filter>ProcessHandler\Zero Level</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XActionTable.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XCharacterState.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XHeroActionTable.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XHeroLocalUser.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XLifeEventManager.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XLocalUser.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMob.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XModelManager.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XNPC.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XUser.h">
+      <Filter>DataStructure\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XGameItem.h">
+      <Filter>DataStructure\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XGameItemDefine.h">
+      <Filter>DataStructure\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMessengerFriend.h">
+      <Filter>DataStructure\Messenger</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMessengerGroup.h">
+      <Filter>DataStructure\Messenger</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\xdummy.h">
+      <Filter>DataStructure\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XFunctionalObject.h">
+      <Filter>DataStructure\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\xseat.h">
+      <Filter>DataStructure\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\Notice\XNoticeProcess.h">
+      <Filter>DataStructure\Notice</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\Notice\XNoticeScript.h">
+      <Filter>DataStructure\Notice</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XCastleBaseType.h">
+      <Filter>DataStructure\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XCastleInfo.h">
+      <Filter>DataStructure\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XCastleManager.h">
+      <Filter>DataStructure\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XCastleScheduler.h">
+      <Filter>DataStructure\Castle</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMLPaser.h">
+      <Filter>DataStructure\XML</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XTextureAnimation.h">
+      <Filter>DataStructure\TextureAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XTagString.h">
+      <Filter>DataStructure\TagString</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMatchEventBaseType.h">
+      <Filter>DataStructure\MatchEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XMatchEventManager.h">
+      <Filter>DataStructure\MatchEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XSetItemInfomation.h">
+      <Filter>DataStructure\SetItem</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XArea.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XAreaManager.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XBattleLog.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\XFame.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XFindFileManager.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XObjectManager.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XSkillItem.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XSkillMastery.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XSR_STRINGHEADER.H">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Filtering\XFileEx.h">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClInclude>
+    <ClInclude Include="Filtering\XWordFilteringList.h">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClInclude>
+    <ClInclude Include="Filtering\XWordFilteringManager.h">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XStringResourceManager.h">
+      <Filter>XUtility\String Resource control</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\ADBalloon.h">
+      <Filter>Network\NMClass\ADBalloon</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMCOClientObject.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMCOHelpers.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMCONew.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMCRChatRoom.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMCSChatSession.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMDataObject.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMEventHandler.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMEventObject.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMFDSFileDownloadSession.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMFunctionObject.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMFUSFileUploadSession.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMGeneral.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMGSGeneralSession.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMManager.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMPCH.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMSerializable.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\NMWSWBSession.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="NMClass\PCH.h">
+      <Filter>Network\NMClass</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\Request.h">
+      <Filter>Network\HTMLRequest</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\Game_packets.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\netdefine.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_battle.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_boss.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_cashitem.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_cb.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_collection.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_ctrl_gms.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_event.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_items_trade.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_level.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_lobby.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_login.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\packet_for_match.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_messenger.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_MnD.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_nickname.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\packet_for_organization.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_party.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\packet_for_personalstore.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_pk.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_quest.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_skill.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_svrmove.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_unigrouplobby.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_xtrap.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\packet_for_zone_monster.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\XNetwork.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network\XNetworkDefine.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XLensFlare.h">
+      <Filter>X3DKernel\Billboard control</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XAnimMeshContainer.h">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XVSAConstants.h">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XBipedController.h">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XKeyframeController.h">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XKeyframeDescriptor.h">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XMeshContainer.h">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XDecalObject.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XEnvironmentManager.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XGrassManager.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XLodTerrain.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XLodTerrainDefine.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XPathObject.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XWater.h">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="XControl\X3PCamera.h">
+      <Filter>X3DKernel\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XRenderStateControl.h">
+      <Filter>X3DKernel\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XEffect_SwordTrace.h">
+      <Filter>X3DKernel\XEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure\XPathFinder.h">
+      <Filter>AI Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XNPCScript.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XNPCScriptConditionItem.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XQuestScriptBaseType.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XQuestScriptDefine.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XQuestScriptItem.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XQuestScriptItemGroup.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XQuestScriptManager.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XTriggerActionItem.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XTriggerConditionItem.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XTriggerItem.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XTriggerTreeItem.h">
+      <Filter>QuestScript</Filter>
+    </ClInclude>
+    <ClInclude Include="XSound\XAudioSystem.h">
+      <Filter>XAudioKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="XControl\XFMODWrapper.h">
+      <Filter>XAudioKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="XControl\XHTMLWrapper.h">
+      <Filter>XGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="XControl\XMessageBox.h">
+      <Filter>XGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\PIDController.h">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\SpeedWind.h">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\SpeedWindBlend.h">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\SpeedWindParser.h">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\XSTShader.h">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\XSTWrapper.h">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\XSTWrapperConfig.h">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XSTreeWrapper\XSTWrapperCore.h">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleAction.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleDefine.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="xparticlecore\XParticleEffectManager.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleElement.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleEmitter.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleIDDefine.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleList.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleMeshObject.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XParticleRenderManager.h">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XSplineContainer.h">
+      <Filter>Effect kernel\Spline container</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XRecyclingArray.h">
+      <Filter>Effect kernel\Recycling array</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshControl\XPostProcessCore.h">
+      <Filter>Effect kernel\PostScreenEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="XParticleCore\XScreenMotionBlur.h">
+      <Filter>Effect kernel\PostScreenEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XFunctionalObjectActionItem.h">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XFunctionalObjectConditionItem.h">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XFunctionalObjectScriptDefine.h">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClInclude>
+    <ClInclude Include="script\XFunctionalObjectTriggerItem.h">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XCollectionItem.h">
+      <Filter>LifeSkillScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XCollectionManager.h">
+      <Filter>LifeSkillScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XResourceItem.h">
+      <Filter>LifeSkillScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Script\XResourceManager.h">
+      <Filter>LifeSkillScript</Filter>
+    </ClInclude>
+    <ClInclude Include="XMADWrapper\MassiveAdObjectSubscriber.h">
+      <Filter>MADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XMADWrapper\MassiveClientCore.h">
+      <Filter>MADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XMADWrapper\MassiveMediaTypes.h">
+      <Filter>MADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XMADWrapper\XMADWrapper.h">
+      <Filter>MADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XMADWrapper\XMVTSubscriberObject.h">
+      <Filter>MADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\BinkSDK\bink.h">
+      <Filter>IGAADWrapper\Bink</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\BinkSDK\binktextures.h">
+      <Filter>IGAADWrapper\Bink</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\BinkSDK\rad3d.h">
+      <Filter>IGAADWrapper\Bink</Filter>
+    </ClInclude>
+    <ClInclude Include="Library\BinkSDK\radbase.h">
+      <Filter>IGAADWrapper\Bink</Filter>
+    </ClInclude>
+    <ClInclude Include="XIGAADWrapper\Registry.h">
+      <Filter>IGAADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XIGAADWrapper\XIGAADWrapperCore.h">
+      <Filter>IGAADWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="XIGAADWrapper\XWindow_BinkStatic.h">
+      <Filter>IGAADWrapper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Windows\Application Base</Filter>
+    </ClCompile>
+    <ClCompile Include="EmperorOfDragons.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_NineDragonsTitle.cpp">
+      <Filter>ProcessHandler\LoginServer\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XMD5c.cpp">
+      <Filter>ProcessHandler\LoginServer\AcclaimMD5</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_LoginServer.cpp">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_DrawKeyboard.cpp">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Login.cpp">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_SelectServerForest.cpp">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_TestServerNotice.cpp">
+      <Filter>ProcessHandler\LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ChangeName.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CreateCharacter.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ExplainCharacter.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_SelectCharacter.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ServerUnification.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter\SubWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_CreateCharacter.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_SelectCharacter.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_ServerUnification.cpp">
+      <Filter>ProcessHandler\Create&amp;SelectCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Email.cpp">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Messenger.cpp">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MessengerDialog.cpp">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MessengerTooltip.cpp">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NameInput.cpp">
+      <Filter>ProcessHandler\Game main\Window\Messenger window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Training.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_TrainingComplete.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_TrainingDummy.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_TrainingHelp.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_TrainingMed.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\xwindow_trainingspell.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox\Training Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XMessageWindow.cpp">
+      <Filter>ProcessHandler\Game main\Window\MessageBox</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Option.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_OptionCommunity.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_OptionGame.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_OptionGraphic.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_OptionMenu.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_OptionSound.cpp">
+      <Filter>ProcessHandler\Game main\Window\Option Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GuideLine.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Hedek.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Help.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_HelpBook.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_HelpScreen.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Tutorial.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_TutorialIcon.cpp">
+      <Filter>ProcessHandler\Game main\Window\HelpSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GM_EventManager.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GM_MonsterManage.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GM_SendNoticeMessage.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GM_StatusControl.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GM_UserCoordination.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_GMCommand.cpp">
+      <Filter>ProcessHandler\Game main\Window\GM_Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\xwindow_partymasterminibar.cpp">
+      <Filter>ProcessHandler\Game main\Window\Party Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\xwindow_partymemberminibar.cpp">
+      <Filter>ProcessHandler\Game main\Window\Party Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_FreeMatchInfo.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MatchEvent.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MatchMessage.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MatchNoticeLarge.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MatchNoticeSmall.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MatchPR.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MatchRecord.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MatchTablePVP.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_PVPBroker.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_RewardNick.cpp">
+      <Filter>ProcessHandler\Game main\Window\Match window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_AccountItemUse.cpp">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_PaymentWindow.cpp">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_PCRPremium.cpp">
+      <Filter>ProcessHandler\Game main\Window\Payment</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CashBox.cpp">
+      <Filter>ProcessHandler\Game main\Window\Cash Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CashMall.cpp">
+      <Filter>ProcessHandler\Game main\Window\Cash Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CastleBattlePersonalHistory.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CastleBattleRewardList.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CastleBattleShout.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CastleBattleTimeChange.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CastleInfo.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CBOrgRecord.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CBRecord.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CBResultNotice.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CBRewardSmall.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ChallengerList.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Info.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Mark.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ThreatenGauge.cpp">
+      <Filter>ProcessHandler\Game main\Window\Castle window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MnDCurrentPoint.cpp">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MnDGroup.cpp">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MnDTotalPoint.cpp">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCMnDInfo.cpp">
+      <Filter>ProcessHandler\Game main\Window\MasternDisciple Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\xwindow_addsaveitem.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_AdminNotice.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_AgeGrade.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_AreaSelect.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_BlackList.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_BloodPoint.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_BookOpen.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_CashItem.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ChargeGauge.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ChatBalloon.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ChattingDefault.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_CInfo.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Contribution.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_DeathBlow.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Debug.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_DefaultTooltip.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_EnterBossRoom.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Escape.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Event.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_EventIcon.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_EventNotice.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Exp.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Gamble.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Group.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Inchant.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Inventory.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_JinStatus.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_LifeSkill.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MainFrame.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MainMenu.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MasterySkill.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MaximumMap.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_MiniTooltip.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MixWeapon.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MonsterStatus.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_MoveVillage.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_NickName.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_NPCBuff.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCChatBalloon.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCCollection.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCName.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCResource.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCResource_New.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCScript.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCSearch.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCSkill.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_NPCTrade.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Party.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_PCTrade.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_PersonalStore.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_PK.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_PK_ListBox.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_PKRecord.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_PKTracingRequest.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_Pocket.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Poison.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_QuestMail.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_QuestRank.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_QuestWindow.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_QuickSlot.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Rebirth.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_RecallItem.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_RepairItem.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_RequestParty.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Skill.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_SmeltItem.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_SocketDetach.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_SocketPlugIn.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_SocketPlugInExp.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_State.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XWindow_SystemMsgDefault.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_TargetInfo.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_TargetInfoSelect.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_TradeConfirm.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_Warehouse.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_WebBoard.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_WorldMap.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_WorldMinimap.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XWindow_ZoneName.cpp">
+      <Filter>ProcessHandler\Game main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_Loading.cpp">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_MainGame.cpp">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_MainGameCallBackFunctions.cpp">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_MainGameMessageHandler.cpp">
+      <Filter>ProcessHandler\Game main</Filter>
+    </ClCompile>
+    <ClCompile Include="XProcess\XProc_FirstLoad.cpp">
+      <Filter>ProcessHandler\FirstLoad</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XProc_Flash.cpp">
+      <Filter>ProcessHandler\Flash</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XProc_SelectHero.cpp">
+      <Filter>ProcessHandler\Zero Level</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XProc_ZeroLevel.cpp">
+      <Filter>ProcessHandler\Zero Level</Filter>
+    </ClCompile>
+    <ClCompile Include="xprocess\XProc_ZeroLevelMessageHandler.cpp">
+      <Filter>ProcessHandler\Zero Level</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XCharacterState.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XHeroLocalUser.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XLifeEventManager.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XLocalUser.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XLocalUser_Battle.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XLocalUser_Training.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XLocalUser_VirtualMode.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XMob.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XModelManager.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XNPC.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XUser.cpp">
+      <Filter>DataStructure\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XGameItem.cpp">
+      <Filter>DataStructure\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XMessengerFriend.cpp">
+      <Filter>DataStructure\Messenger</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XMessengerGroup.cpp">
+      <Filter>DataStructure\Messenger</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\xdummy.cpp">
+      <Filter>DataStructure\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XFunctionalObject.cpp">
+      <Filter>DataStructure\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\xseat.cpp">
+      <Filter>DataStructure\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\Notice\XNoticeProcess.cpp">
+      <Filter>DataStructure\Notice</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\Notice\XNoticeScript.cpp">
+      <Filter>DataStructure\Notice</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XCastleInfo.cpp">
+      <Filter>DataStructure\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XCastleManager.cpp">
+      <Filter>DataStructure\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XCastleScheduler.cpp">
+      <Filter>DataStructure\Castle</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XMLPaser.cpp">
+      <Filter>DataStructure\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XTextureAnimation.cpp">
+      <Filter>DataStructure\TextureAnimation</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XTagString.cpp">
+      <Filter>DataStructure\TagString</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XMatchEventManager.cpp">
+      <Filter>DataStructure\MatchEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XSetItemInfomation.cpp">
+      <Filter>DataStructure\SetItem</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XArea.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XAreaManager.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XBattleLog.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\XFame.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XFindFileManager.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XObjectManager.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XSkillItem.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XSkillMastery.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Filtering\XFileEx.cpp">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClCompile>
+    <ClCompile Include="Filtering\XWordFilteringList.cpp">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClCompile>
+    <ClCompile Include="Filtering\XWordFilteringManager.cpp">
+      <Filter>XUtility\Word filtering</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XStringResourceManager.cpp">
+      <Filter>XUtility\String Resource control</Filter>
+    </ClCompile>
+    <ClCompile Include="NMClass\NMFiles.cpp">
+      <Filter>Network\NMClass</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\Request.cpp">
+      <Filter>Network\HTMLRequest</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_Battle.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_Boss.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_cb.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_charac_monster.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_Collection.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_ctrl_gms.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_item_trade.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_MasternDisciple.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_Match.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_Messenger.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_Nickname.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_Organization.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_Party.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_PersonalStore.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_PKPenalty.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\XNetwork_quest.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_UniGroupLobby.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Network\XNetwork_XTrap.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XLensFlare.cpp">
+      <Filter>X3DKernel\Billboard control</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XAnimMeshContainer.cpp">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XBipedController.cpp">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XKeyframeController.cpp">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XKeyframeController_Load.cpp">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XKeyframeDescriptor.cpp">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XMeshContainer.cpp">
+      <Filter>X3DKernel\XBiped controller</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XDecalObject.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XEnvironmentManager.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XGrassManager.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XLodTerrain.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XLodTerrain_TileQuad.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XPathObject.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XWater.cpp">
+      <Filter>X3DKernel\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="XControl\X3PCamera.cpp">
+      <Filter>X3DKernel\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XRenderStateControl.cpp">
+      <Filter>X3DKernel\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XEffect_SwordTrace.cpp">
+      <Filter>X3DKernel\XEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure\XPathFinder.cpp">
+      <Filter>AI Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XNPCScript.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XNPCScriptConditionItem.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XQuestScriptItem.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="script\XQuestScriptItemGroup.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XQuestScriptManager.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XTriggerActionItem.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XTriggerConditionItem.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XTriggerItem.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="script\XTriggerTreeItem.cpp">
+      <Filter>QuestScript</Filter>
+    </ClCompile>
+    <ClCompile Include="XSound\XAudioSystem.cpp">
+      <Filter>XAudioKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="XControl\XFMODWrapper.cpp">
+      <Filter>XAudioKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="XControl\XHTMLWrapper.cpp">
+      <Filter>XGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="XControl\XMessageBox.cpp">
+      <Filter>XGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="XSTreeWrapper\SpeedWind.cpp">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClCompile>
+    <ClCompile Include="XSTreeWrapper\SpeedWindBlend.cpp">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClCompile>
+    <ClCompile Include="XSTreeWrapper\SpeedWindParser.cpp">
+      <Filter>SpeedTreeWrapper\SpeedWind</Filter>
+    </ClCompile>
+    <ClCompile Include="XSTreeWrapper\XSTWrapper.cpp">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="XSTreeWrapper\XSTWrapperCore.cpp">
+      <Filter>SpeedTreeWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleAction.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="xparticlecore\XParticleEffectManager.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleElement.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleEmitter.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleList.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleMeshObject.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XParticleRenderManager.cpp">
+      <Filter>Effect kernel\Particle core</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XSplineContainer.cpp">
+      <Filter>Effect kernel\Spline container</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshControl\XPostProcessCore.cpp">
+      <Filter>Effect kernel\PostScreenEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="XParticleCore\XScreenMotionBlur.cpp">
+      <Filter>Effect kernel\PostScreenEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="script\XFunctionalObjectActionItem.cpp">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClCompile>
+    <ClCompile Include="script\XFunctionalObjectConditionItem.cpp">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClCompile>
+    <ClCompile Include="script\XFunctionalObjectTriggerItem.cpp">
+      <Filter>FunctionalObjectScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XCollectionItem.cpp">
+      <Filter>LifeSkillScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XCollectionManager.cpp">
+      <Filter>LifeSkillScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XResourceItem.cpp">
+      <Filter>LifeSkillScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script\XResourceManager.cpp">
+      <Filter>LifeSkillScript</Filter>
+    </ClCompile>
+    <ClCompile Include="XMADWrapper\XMADWrapper.cpp">
+      <Filter>MADWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="XMADWrapper\XMVTSubscriberObject.cpp">
+      <Filter>MADWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="Library\BinkSDK\dx9rad3d.cpp">
+      <Filter>IGAADWrapper\Bink</Filter>
+    </ClCompile>
+    <ClCompile Include="XIGAADWrapper\XIGAADWrapperCore.cpp">
+      <Filter>IGAADWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="XIGAADWrapper\XWindow_BinkStatic.cpp">
+      <Filter>IGAADWrapper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EmperorOfDragons.rc">
+      <Filter>Windows\Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Documents</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ShaderCode\Model.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\ModelShadow.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\Normal.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\NormalPaletteSkin.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\PaletteSkin.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\PaletteSkinBumpMap.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\PaletteSkinShadow.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\RenderByNormalValue.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\RigidAniEdge.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\SilhouetteEdge.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\SkinEdge.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\Toon.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\ToonPaletteSkin.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+    <FxCompile Include="ShaderCode\ToonRigidAni.vsh">
+      <Filter>X3DKernel\XBiped controller\AnimModelContainer\ShaderCode</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="res\NineDragons.exe.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Resource\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_arrow_diagonal_left.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_arrow_diagonal_right.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_arrow_rightandleft.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_arrow_topandbottom.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_changeview.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_characterselect.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_chatresizeclick.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_chatresizeover.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_choice.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_choice_push.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_combat.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_combat_push.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_CONVERSATION.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_gatecursor.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_lpsclick.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_lpsover.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_mobover.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_mobover_click.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_noway.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_peace.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_peace_push.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_pickup_shut.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_pickup_spread.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_down.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_downleft.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_downright.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_left.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_right.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_up.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_upleft.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_screenmove_upright.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_status.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_statusclick.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\mp_warpgate.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\reborncl.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\reborncu.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource\SandGlass1.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

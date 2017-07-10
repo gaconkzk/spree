@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d639bf23-a9f5-4415-8104-3990c2a3e981}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b2bcaff7-16cd-43ac-8978-6c29e6bb394e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{140257e4-d1ed-462d-b201-14ebe25cab30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{aab56c92-630b-4d8c-a09c-bbc18c305081}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Win32\debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32\Display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashControlImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="win32\FSControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32\palette.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32\sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32\util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bitbuf.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="curve.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="edittext.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="fixed.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="geom.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="jpeg.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="memcop.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="morphinter.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="mp3decoder.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="raster.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sbitmap.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sdisplay.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sndcodec.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sndmix.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sobject.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="splay.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="splayer.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="sstroker.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="unixfonts.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Win32\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\fixed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashControlImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="win32\FSControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\palette.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Win32\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitbuf.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="bitstream.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="curve.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="edittext.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="fixed.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="genericfonts.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="geom.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="jpeg.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mcontext.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="memcop.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="morphinter.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mp3decifc.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mp3decoder.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mp3sscdef.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mp3streaminfo.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mpegbitstream.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="mpegheader.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="raster.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sbitmap.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sdisplay.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="shape.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sndcodec.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sndmix.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sobject.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="splay.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="splayer.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="sstroker.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="stags.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="win32\ReadMe.txt" />
+  </ItemGroup>
+</Project>

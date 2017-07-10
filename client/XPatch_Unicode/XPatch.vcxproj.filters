@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ee029bd8-42c4-487a-b68e-f453cfbcb523}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{59451ffe-d6f1-4de7-b4f8-2e42b0d38c90}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{010658ac-c787-4df6-821b-6e0768a3aa5d}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Registry">
+      <UniqueIdentifier>{59127f2b-d007-409f-a03e-a61cfd241abf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Package">
+      <UniqueIdentifier>{6528a3ce-1095-4785-8e4e-01a3c7382976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MFC Engine">
+      <UniqueIdentifier>{a51b1ec7-57d8-48a9-a801-9d4c50bd5e27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ziplib">
+      <UniqueIdentifier>{af053049-3c42-4153-a6a2-863d3b44be98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ziplib\ZipCore">
+      <UniqueIdentifier>{46e69d7b-3063-4045-8594-0cd6377a70cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SeverMessageDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XPatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XPatchDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XRegistry.cpp">
+      <Filter>Registry</Filter>
+    </ClCompile>
+    <ClCompile Include="Package.cpp">
+      <Filter>Package</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapDialog.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="CeXDib.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Dib.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadeButtonST.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="xDib.cpp">
+      <Filter>MFC Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\adler32.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\compress.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\crc32.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\deflate.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\gzio.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\infback.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\inffast.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\inflate.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\inftrees.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\trees.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\uncompr.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\zutil.c">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\AutoBuffer.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\BigFile.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\CentralDir.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\FileHeader.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipArchive.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipException.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipInternalInfo.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipStorage.cpp">
+      <Filter>Ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="XPatch.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeverMessageDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XPatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XPatchDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RegStringDefine.h">
+      <Filter>Registry</Filter>
+    </ClInclude>
+    <ClInclude Include="XRegistry.h">
+      <Filter>Registry</Filter>
+    </ClInclude>
+    <ClInclude Include="Package.h">
+      <Filter>Package</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapDialog.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="CeXDib.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="DIB.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadeButtonST.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="xDib.h">
+      <Filter>MFC Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\crc32.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\deflate.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\inffast.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\inffixed.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\inflate.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\inftrees.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\trees.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\zconf.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\zconf.in.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\zlib.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\zutil.h">
+      <Filter>Ziplib\ZipCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\AutoBuffer.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\BigFile.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\CentralDir.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\FileHeader.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipArchive.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipException.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipInternalInfo.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipStorage.h">
+      <Filter>Ziplib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Border.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Close.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\M0Q1ILL5.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Minimize.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\minimize.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Open.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Upgrade.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\us_Border.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\vn_Border.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XPactchMainIcon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XPatch.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="res\kr_interface.txt" />
+    <Text Include="ReadMe.txt" />
+    <Text Include="res\tw_interface.txt" />
+    <Text Include="res\us_interface.txt" />
+    <Text Include="res\vn_interface.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\XPatch.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\Border.rgn" />
+  </ItemGroup>
+</Project>

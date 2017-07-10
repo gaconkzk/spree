@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{a6d405d6-1109-4caf-a1ff-e115c941ae02}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Windows">
+      <UniqueIdentifier>{3d2c1734-faa0-4250-b9a6-872691c478d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MFC Class">
+      <UniqueIdentifier>{ed090361-d115-4d9d-8623-ba12923c132c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MFC Class\WebController">
+      <UniqueIdentifier>{954e6d59-1ee4-411b-abc7-74b8f8c66bee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MFC Class\MarkUp">
+      <UniqueIdentifier>{1e02c892-57bc-44bc-ae53-838606deaeea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serial">
+      <UniqueIdentifier>{a2080dbd-b8d9-4410-b7a6-546573289a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Zip">
+      <UniqueIdentifier>{c9523536-f363-4b2d-8325-92a4d13e6007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FTP">
+      <UniqueIdentifier>{7476249a-4825-4709-ba31-1c41d5438f3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Package">
+      <UniqueIdentifier>{64ad2013-c3bc-4919-83c1-f521735682cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HTML View">
+      <UniqueIdentifier>{d3e1d053-3830-48fc-92cc-681e3b5f6747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HTTPDownload">
+      <UniqueIdentifier>{c7b2a094-813e-4963-860e-79d25d1fa1be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl">
+      <UniqueIdentifier>{3d648c95-ccf7-40ca-b58b-d9b363976f08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl\ZLib">
+      <UniqueIdentifier>{8e7b05d6-09e4-4c51-929d-6dc2aa19b935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl\Jpeg">
+      <UniqueIdentifier>{ea5a4e8a-04f1-4e2e-8f50-5982d82cc389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl\FlashSource">
+      <UniqueIdentifier>{f645b47f-16eb-4c7a-a9ea-a8ed682a35c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl\FlashHeader">
+      <UniqueIdentifier>{b18af83b-ec91-4852-a56b-f4126268fb45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashControl\Main">
+      <UniqueIdentifier>{e6703215-27a8-4a61-ae55-3f71fcfe6094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D3DClass">
+      <UniqueIdentifier>{e67d59e3-93f2-4b42-90ad-fc8a25524cc6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\center.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Close.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ColumnHeaderEnd.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ColumnHeaderSpan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ColumnHeaderStart.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\eu_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\highquality_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\highquality_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HorizontalScrollBarLeftArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HorizontalScrollBarRightArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HorizontalScrollBarSpan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HorizontalScrollBarThumb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\jp_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\kr_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_connect_clicked.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_connect_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_connect_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_end_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_end_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_join_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_join_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_option_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\launcher_button_option_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\left.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list_bot.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list_left.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list_right.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list_top.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\lowquality_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\lowquality_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MainIcon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\midquality_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\midquality_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\miniclose_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\miniclose_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\notice_button_close_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\notice_button_close_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\notice_small.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\NoticeCloseButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\NoticeTitle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="IMageResource\OptionBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\OptionBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\optionCancel_Hightlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\optionCancel_Normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\optionOK_Hightlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\optionOK_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\patchslider.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\patchsliderback.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\PopupBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ProgressbarBackBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ProgressbarBackBorderTitle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Resolution.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\right.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rightdown.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rs_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\selectserverbtn_highlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\selectserverbtn_normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect_CloseHighlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect_CloseNormal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect_RefreshHighlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect_RefreshNormal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ShowPatchInfo_Hightlight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ShowPatchInfo_Normal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tw_colog.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tw_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\update_small.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\UpdateBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\UpdateTitle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\us_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollbarBottom.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollBarDownArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollBarSpan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollBarThumb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollbarTop.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VerticleScrollBarUpArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\vn_CoLogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WebBorder.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XLauncher.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CheckVersionDlg.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="noticedialog.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="NotInstalledDialog.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="XLauncher.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="XLauncherDlg.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="XRegistry.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="WebController\custsite.cpp">
+      <Filter>MFC Class\WebController</Filter>
+    </ClCompile>
+    <ClCompile Include="WebController\idispimp.cpp">
+      <Filter>MFC Class\WebController</Filter>
+    </ClCompile>
+    <ClCompile Include="WebController\webbro.cpp">
+      <Filter>MFC Class\WebController</Filter>
+    </ClCompile>
+    <ClCompile Include="Markup.cpp">
+      <Filter>MFC Class\MarkUp</Filter>
+    </ClCompile>
+    <ClCompile Include="BCMenu.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="BitComboBox.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="BitListBox.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapDialog.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapSlider.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="CeXDib.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Dib.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="GradientProgressCtrl.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="KCBusyProgressCtrl.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="MacButtons.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SeverMessageDialog.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadeButtonST.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinHeaderCtrl.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinHorizontalScrollbar.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinListCtrl.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinVerticleScrollbar.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="TextProgressCtrl.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XBrowser.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="xDib.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="XProgressBar.cpp">
+      <Filter>MFC Class</Filter>
+    </ClCompile>
+    <ClCompile Include="EnterSerialDlg.cpp">
+      <Filter>Serial</Filter>
+    </ClCompile>
+    <ClCompile Include="XEncryption.cpp">
+      <Filter>Serial</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\AutoBuffer.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\BigFile.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\CentralDir.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\FileHeader.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipArchive.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipException.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipInternalInfo.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="Zip\ZipStorage.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="FTPOptionsDialog.cpp">
+      <Filter>FTP</Filter>
+    </ClCompile>
+    <ClCompile Include="FTPTransferDlg.cpp">
+      <Filter>FTP</Filter>
+    </ClCompile>
+    <ClCompile Include="Package.cpp">
+      <Filter>Package</Filter>
+    </ClCompile>
+    <ClCompile Include="DLGHTML.cpp">
+      <Filter>HTML View</Filter>
+    </ClCompile>
+    <ClCompile Include="XFileDownload.cpp">
+      <Filter>HTTPDownload</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\adler32.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\compress.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\crc32.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\deflate.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\gzio.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\infback.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\inffast.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\inflate.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\inftrees.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\trees.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\uncompr.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\zlib\zutil.c">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jcomapi.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdapimin.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdapistd.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdcoefct.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdcolor.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jddctmgr.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdhuff.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdinput.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdmainct.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdmarker.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdmaster.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdpostct.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jdsample.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jfdctint.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jidctint.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jmemmgr.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jmemnobs.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\JPEG\jutils.cpp">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\debug.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\Display.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\FlashControlImpl.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\FlashStatic.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\FSControl.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\palette.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\sound.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\win32\util.cpp">
+      <Filter>FlashControl\FlashSource</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\bitbuf.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\curve.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\edittext.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\fixed.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\geom.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\global.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\jpeg.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\memcop.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\morphinter.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\mp3decoder.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\raster.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sbitmap.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sdisplay.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sndcodec.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sndmix.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sobject.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\splay.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\splayer.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\sstroker.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashCtrl\unixfonts.cpp">
+      <Filter>FlashControl\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="d3denumeration.cpp">
+      <Filter>D3DClass</Filter>
+    </ClCompile>
+    <ClCompile Include="d3dutil.cpp">
+      <Filter>D3DClass</Filter>
+    </ClCompile>
+    <ClCompile Include="dxutil.cpp">
+      <Filter>D3DClass</Filter>
+    </ClCompile>
+    <ClCompile Include="ResChangeDialog.cpp" />
+    <ClCompile Include="SelectServer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CheckVersionDlg.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="noticedialog.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="NotInstalledDialog.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="XLauncher.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="XLauncherDlg.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="XRegistry.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="XRegistryDef.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="WebController\custsite.h">
+      <Filter>MFC Class\WebController</Filter>
+    </ClInclude>
+    <ClInclude Include="WebController\idispimp.h">
+      <Filter>MFC Class\WebController</Filter>
+    </ClInclude>
+    <ClInclude Include="WebController\webbro.h">
+      <Filter>MFC Class\WebController</Filter>
+    </ClInclude>
+    <ClInclude Include="Markup.h">
+      <Filter>MFC Class\MarkUp</Filter>
+    </ClInclude>
+    <ClInclude Include="BCMenu.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="BitComboBox.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="BitListBox.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapDialog.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapSlider.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="CeXDib.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="DIB.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="GradientProgressCtrl.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="KCBusyProgressCtrl.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="MacButtons.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="memdc.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SeverMessageDialog.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadeButtonST.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinHeaderCtrl.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinHorizontalScrollbar.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinListCtrl.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinVerticleScrollbar.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="TextProgressCtrl.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XBrowser.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="xDib.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="XProgressBar.h">
+      <Filter>MFC Class</Filter>
+    </ClInclude>
+    <ClInclude Include="EnterSerialDlg.h">
+      <Filter>Serial</Filter>
+    </ClInclude>
+    <ClInclude Include="XEncryption.h">
+      <Filter>Serial</Filter>
+    </ClInclude>
+    <ClInclude Include="XEncryptiondata.h">
+      <Filter>Serial</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\AutoBuffer.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\BigFile.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\CentralDir.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\FileHeader.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipArchive.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipException.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipInternalInfo.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="Zip\ZipStorage.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="FTPOptionsDialog.h">
+      <Filter>FTP</Filter>
+    </ClInclude>
+    <ClInclude Include="FTPTransferDlg.h">
+      <Filter>FTP</Filter>
+    </ClInclude>
+    <ClInclude Include="Package.h">
+      <Filter>Package</Filter>
+    </ClInclude>
+    <ClInclude Include="DLGHTML.h">
+      <Filter>HTML View</Filter>
+    </ClInclude>
+    <ClInclude Include="ProxyIBindStatusCallback.h">
+      <Filter>HTTPDownload</Filter>
+    </ClInclude>
+    <ClInclude Include="XFileDownload.h">
+      <Filter>HTTPDownload</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\crc32.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\deflate.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\inffast.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\inffixed.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\inflate.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\inftrees.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\trees.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\zconf.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\zconf.in.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\zlib.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\zlib\zutil.h">
+      <Filter>FlashControl\ZLib</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\cderror.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\cdjpeg.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jchuff.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jconfig.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jdct.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jdhuff.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jmemsys.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jmorecfg.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jpegint.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jpeglib.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\JPEG\jversion.h">
+      <Filter>FlashControl\Jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\debug.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\display.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\fixed.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\FlashControl.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\FlashControlImpl.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\FlashStatic.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\FSControl.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\palette.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\Sound.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\util.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\win32\version.h">
+      <Filter>FlashControl\FlashHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\Bitbuf.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\bitstream.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\curve.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\edittext.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\fixed.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\genericfonts.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\geom.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\global.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\jpeg.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mcontext.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\memcop.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\morphinter.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mp3decifc.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mp3decoder.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mp3sscdef.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mp3streaminfo.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mpegbitstream.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\mpegheader.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\raster.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sbitmap.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sdisplay.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\shape.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sndcodec.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sndmix.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sobject.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\splay.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\splayer.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\sstroker.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashCtrl\stags.h">
+      <Filter>FlashControl\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="d3denumeration.h">
+      <Filter>D3DClass</Filter>
+    </ClInclude>
+    <ClInclude Include="d3dutil.h">
+      <Filter>D3DClass</Filter>
+    </ClInclude>
+    <ClInclude Include="dxutil.h">
+      <Filter>D3DClass</Filter>
+    </ClInclude>
+    <ClInclude Include="ResChangeDialog.h" />
+    <ClInclude Include="SelectServer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="XLauncher.rc">
+      <Filter>Windows</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="res\eu_interface.txt" />
+    <Text Include="res\jp_interface.txt" />
+    <Text Include="res\kr_interface.txt" />
+    <Text Include="ReadMe.txt" />
+    <Text Include="res\rs_interface.txt" />
+    <Text Include="res\tw_interface.txt" />
+    <Text Include="res\us_interface.txt" />
+    <Text Include="res\vn_interface.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\Launcherbutton.wav" />
+    <Media Include="res\luncherStart.wav" />
+    <Media Include="res\PatchComplete.wav" />
+    <Media Include="res\StartGame.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\XLauncher.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
