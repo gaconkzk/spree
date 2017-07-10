@@ -146,6 +146,7 @@
     <SccProjectName>"$/EmperorOfDragons", ZEAAAAAA</SccProjectName>
     <SccLocalPath>.</SccLocalPath>
     <ProjectGuid>{6A15919F-7440-4605-904F-2E7D0EC0D4AC}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KR_Test_Release_Debug|Win32'" Label="Configuration">

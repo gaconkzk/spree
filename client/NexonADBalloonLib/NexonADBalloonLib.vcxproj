@@ -22,6 +22,7 @@
     <SccProjectName>"$/EmperorOfDragons/NexonADBalloonLib", GCAFAAAA</SccProjectName>
     <SccLocalPath>.</SccLocalPath>
     <ProjectGuid>{59774172-8486-4E84-A1DA-904EBF5E5A3C}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">

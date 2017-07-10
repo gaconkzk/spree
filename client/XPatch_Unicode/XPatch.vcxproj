@@ -31,6 +31,7 @@
     <SccLocalPath>.</SccLocalPath>
     <Keyword>MFCProj</Keyword>
     <ProjectGuid>{942AB819-3C06-48DA-AEED-95AD67B4EACE}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">

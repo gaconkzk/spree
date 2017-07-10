@@ -138,6 +138,7 @@
     <SccProjectName>"$/EmperorOfDragons/XFControl", PLLDAAAA</SccProjectName>
     <SccLocalPath>.</SccLocalPath>
     <ProjectGuid>{99E19B1F-529F-42B4-8C70-C35211C0FA03}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
