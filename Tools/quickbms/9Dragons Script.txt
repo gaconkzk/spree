@@ -1,0 +1,26 @@
+#quickbms script for 9 Dragons 
+#by chrrox 
+get idstring long 
+get files long 
+for i = 0 < files 
+get nsize short 
+filexor "0xEF" 
+getdstring NAME nsize 
+filexor "" 
+putarray 0 i NAME 
+next i 
+for i = 0 < files 
+get id1 long 
+putarray 1 i id1 
+next i 
+get SIZE asize 
+putarray 1 files SIZE 
+for i = 0 < files 
+set j i 
+math j + 1 
+getarray NAME 0 i 
+getarray OFFSET 1 i 
+getarray SIZE 1 j 
+math SIZE - OFFSET 
+log NAME OFFSET SIZE 
+next i  
