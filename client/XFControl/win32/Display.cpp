@@ -265,10 +265,13 @@ void NativeBitmap::BltNativeToScreen( 	NativePlayerWnd* native,
 {
 	if( !native->m_pOffScreenTexture ) return;
 
-	D3DLOCKED_RECT  lockrect;
-	D3DSURFACE_DESC surfdesc;
-	native->m_pOffScreenTexture->GetLevelDesc( 0, &surfdesc );
-	HRESULT result = native->m_pOffScreenTexture->LockRect( 0, &lockrect, 0, 0 );
+	D3D10_MAPPED_TEXTURE2D lockrect;
+	D3D10_TEXTURE2D_DESC surfdesc;
+
+	D3D10_MAP m;
+
+	native->m_pOffScreenTexture->GetDesc( &surfdesc );
+	HRESULT result = native->m_pOffScreenTexture->Map( 0, m, 0, &lockrect);
 
 	if( xDest + cx >= (int)surfdesc.Width  )
 		cx = surfdesc.Width - xDest;

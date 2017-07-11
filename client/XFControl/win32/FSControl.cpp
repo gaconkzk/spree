@@ -95,8 +95,8 @@ void NativePlayerWnd::initialize( HWND _hwnd, HINSTANCE hinst, LPDIRECT3DTEXTURE
 
 	m_pOffScreenTexture = pOffScreenTexture;
 
-	D3DSURFACE_DESC surfdesc;
-	m_pOffScreenTexture->GetLevelDesc( 0, &surfdesc );
+	D3D10_TEXTURE2D_DESC surfdesc;
+	m_pOffScreenTexture->GetDesc(&surfdesc);// GetLevelDesc(0, &surfdesc);
 
 	m_ClientWidth  = surfdesc.Width;
 	m_ClientHeight = surfdesc.Height;

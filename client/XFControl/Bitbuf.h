@@ -91,7 +91,7 @@ class CBitBuffer {
 
 	BOOL CreateScreenBits( NativePlayerWnd* native, SRECT* frame );	// pass frame in global screen coordinates
 
-	BOOL LockBits() { return bitmap & bitmap->Bits != 0; }
+	BOOL LockBits() { return bitmap && bitmap->Bits() != 0; }
 	void UnlockBits() {}
 
 	void FreeBits();

@@ -1,5 +1,5 @@
 
-#include "d3dx9.h"
+#include "d3d10.h"
 #include "FlashControl.h" // CFlashControlInterface 가 들어있는 헤더파일
 
 #include "./win32/FSControl.h"

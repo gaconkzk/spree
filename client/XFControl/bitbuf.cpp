@@ -39,7 +39,7 @@ inline ITabBuilder::ITabBuilder(U8* it)
 	nEmpty = 16*16*16;
 }
 
-inline ColorDist(int a, int b) 
+inline int ColorDist(int a, int b) 
 { 
 	int e = a-b; 
 	return e < 0 ? -e : e; 

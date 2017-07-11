@@ -1,8 +1,14 @@
 #ifndef _NATIVEPLAYERWND_H_
 #define _NATIVEPLAYERWND_H_
 
-#include "d3dx9.h"
+#include <d3d10.h>
 #include "..//splayer.h"
+
+#if defined(D3D9)
+
+#else //D3D10
+typedef ID3D10Texture2D* LPDIRECT3DTEXTURE9;
+#endif
 
 /****************************************************************************
 CONFIDENTIAL AND PROPRIETARY INFORMATION.  The entire contents of this file
